@@ -1,0 +1,31 @@
+Age,Annual_Income,Spending_Score,Visits_Per_Month,Segment
+22,25000,20,2,Low Value
+25,28000,25,3,Low Value
+28,30000,30,3,Low Value
+30,32000,28,4,Low Value
+32,35000,35,4,Low Value
+35,38000,32,5,Low Value
+38,40000,40,5,Low Value
+40,42000,38,6,Low Value
+42,45000,45,6,Regular
+45,48000,42,7,Regular
+48,50000,50,7,Regular
+50,52000,48,8,Regular
+52,55000,55,8,Regular
+55,58000,52,9,Regular
+58,60000,60,10,High Value
+60,65000,58,10,High Value
+23,27000,22,2,Low Value
+27,31000,27,3,Low Value
+31,34000,33,4,Low Value
+34,37000,36,4,Low Value
+37,41000,39,5,Regular
+41,46000,44,6,Regular
+44,49000,47,6,Regular
+47,53000,51,7,Regular
+51,57000,54,8,Regular
+54,62000,59,9,High Value
+57,68000,63,10,High Value
+61,72000,68,11,High Value
+26,29000,26,3,Low Value
+33,36000,34,4,Low Value
